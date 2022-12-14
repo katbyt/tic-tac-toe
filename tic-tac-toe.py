@@ -62,5 +62,3 @@ while True:
             break
     except (IndexError, KeyError, ValueError):
         print('Нет такой клетки.')
-
-# Принято
